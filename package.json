@@ -1,0 +1,20 @@
+{
+  "name": "mc-pathfinder",
+  "version": "1.1.0",
+  "description": "A pathfinding plugin for mineflayer that digs and bridges its own way.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/main.js"
+  },
+  "keywords": [
+    "mineflayer",
+    "pathfinder",
+    "minecraft"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.39.0",
+    "prismarine-physics": "^1.11.1",
+    "vec3": "^0.2.0"
+  }
+}
